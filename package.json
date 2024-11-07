@@ -1,5 +1,6 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "name": "teamflow-backend",
   "version": "1.0.0",
   "main": "index.js",
@@ -16,6 +17,8 @@
     "express": "^4.21.1",
     "mongoose": "^8.8.0"
 =======
+=======
+>>>>>>> ca1868b61537a412eb8f36125a42c943221075a0
   "name": "teamflow-frontend",
   "version": "0.1.0",
   "private": true,
@@ -51,6 +54,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
 >>>>>>> 966f5a7 (Initialize project using Create React App)
+=======
+>>>>>>> ca1868b61537a412eb8f36125a42c943221075a0
   }
 }

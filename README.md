@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # teamflow-xr
 Eine interaktive 3D-Collaboration-Plattform , auf der man Aufgaben und Projekte managen kann. Wir kombinieren dafür eine moderne Web-Oberfläche mit React und eine Unity-3D-Umgebung, die direkt im Browser läuft. Ziel ist es, eine kreative und innovative Plattform für Teamwork und virtuelle Zusammenarbeit zu bauen echtes 3D-Erlebnis.
 =======
+=======
+>>>>>>> ca1868b61537a412eb8f36125a42c943221075a0
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,4 +75,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<<<<<<< HEAD
 >>>>>>> 966f5a7 (Initialize project using Create React App)
+=======
+>>>>>>> ca1868b61537a412eb8f36125a42c943221075a0
